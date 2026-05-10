@@ -107,6 +107,16 @@ Notebook:
 - Predictive Analytics
 
 ---
+# Dashboard Visualizations
+
+## Full Dashboard
+![Full Dashboard](spacex_dashboard_full.png)
+
+## Pie Chart Visualization
+![Pie Chart](spacex_dashboard_piechart.png)
+
+## Scatter Plot Visualization
+![Scatter Plot](spacex_dashboard_scatterplot.png)
 
 # Author
 
