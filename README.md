@@ -123,4 +123,4 @@ Notebook:
 
 Ruel Laranjo  
 Aspiring Data Scientist | Computer Systems Engineering Graduate  
-IBM Data Science Professional Certificate Candidate
+IBM Data Science Professional Certificate
